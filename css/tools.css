@@ -1,0 +1,15 @@
+.tools {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  z-index: 99;
+}
+
+.tools ul {
+  display: flex;
+  list-style: none;
+}
+
+.tools img {
+  height: 20px;
+}
